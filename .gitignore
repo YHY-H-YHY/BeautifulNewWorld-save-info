@@ -1,0 +1,10 @@
+# Keep game saves and local analysis out of the information repository.
+*.fch
+*.db
+*.db2
+*.fwl
+*.fwl2
+*.chunk
+*.chunks
+*.zip
+work/

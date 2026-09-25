@@ -1,0 +1,13 @@
+{
+  "world_name": "BeautifulNewWorld",
+  "seed": "llcsb",
+  "world_uid": "0x00000000dd24b3dc",
+  "save_generation": 286,
+  "world_format_version": 41,
+  "archive_sha256": "c84310edca6f1558d70f9655abc9315908d3f10567c21d1ee45ed9fb0b62defa",
+  "world_file_count": 70,
+  "all_location_records": 12178,
+  "dungeon_entries": 1577,
+  "generated_dungeon_entries": 270,
+  "planned_dungeon_entries": 1307
+}
